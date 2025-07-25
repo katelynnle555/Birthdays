@@ -8,11 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		BD3CF3682E33BF4300AD1B60 /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3CF3672E33BF4300AD1B60 /* Friend.swift */; };
+		BD3CF36A2E33D9EA00AD1B60 /* FriendsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3CF3692E33D9EA00AD1B60 /* FriendsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BD3CF3592E33BE6000AD1B60 /* Birthdays.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Birthdays.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD3CF3672E33BF4300AD1B60 /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
+		BD3CF3692E33D9EA00AD1B60 /* FriendsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -37,6 +39,7 @@
 		BD3CF3502E33BE6000AD1B60 = {
 			isa = PBXGroup;
 			children = (
+				BD3CF3692E33D9EA00AD1B60 /* FriendsView.swift */,
 				BD3CF3672E33BF4300AD1B60 /* Friend.swift */,
 				BD3CF35B2E33BE6000AD1B60 /* Birthdays */,
 				BD3CF35A2E33BE6000AD1B60 /* Products */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD3CF3682E33BF4300AD1B60 /* Friend.swift in Sources */,
+				BD3CF36A2E33D9EA00AD1B60 /* FriendsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
